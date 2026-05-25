@@ -1,0 +1,12 @@
+
+{
+  "name": "sample-buggy-project",
+  "version": "1.0.0",
+  "description": "Demo project with intentional issues for Codex/GitHub review",
+  "main": "sample_buggy_project.py",
+  "scripts": {
+    "start": "python sample_buggy_project.py"
+  },
+  "author": "Mohd Nadeem",
+  "license": "MIT"
+}
